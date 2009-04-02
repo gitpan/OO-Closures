@@ -1,0 +1,7 @@
+lib/OO/Closures.pm
+MANIFEST
+Makefile.PL
+t/000_tests.t
+README
+Changes
+META.yml                                 Module meta-data (added by MakeMaker)

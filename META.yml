@@ -1,0 +1,13 @@
+--- #YAML:1.0
+name:                OO-Closures
+version:             2009040201
+abstract:            ~
+license:             ~
+author:              
+    - Abigail <oo-closures@abigail.be>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
