@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               OO-Closures
-version:            2009110701
+version:            2009110702
 abstract:           Object Oriented Programming using Closures.
 author:
     - Abigail <oo-closures@abigail.be>
@@ -11,10 +11,9 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    Lingua::EN::Numbers:  1.01
-    perl:                 5.006
-    strict:               0
-    warnings:             0
+    perl:      5.006
+    strict:    0
+    warnings:  0
 resources:
     repository:  git://github.com/Abigail/oo--closures.git
 no_index:
